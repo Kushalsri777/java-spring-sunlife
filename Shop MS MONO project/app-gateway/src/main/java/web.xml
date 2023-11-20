@@ -1,0 +1,10 @@
+<web-app>
+ <servlet>
+    <servlet-name> Give Some Dummy Name </servlet-name>
+    <servlet-class>/Flly qualified name of our servlet</servlet-class>
+ </servlet>
+ <servlet-mapping>
+    <servlet-name> Give Some Dummy Name </servlet-name>
+    <url-pattern>/UserFriendlyName</url-pattern>
+ </servlet-mapping>
+</web-app>
